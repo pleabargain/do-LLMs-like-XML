@@ -25,8 +25,9 @@ An AI-powered application that helps generate project ideas and implementation g
 ## Prerequisites
 
 - Python 3.8 or higher
-- OpenAI API key (optional)
-- Ollama installed (optional)
+- OpenAI API key 
+and/or
+- Ollama installed
 
 ## Installation
 

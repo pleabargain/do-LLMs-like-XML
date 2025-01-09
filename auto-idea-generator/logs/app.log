@@ -115,3 +115,5 @@
 2025-01-09 16:15:30,223 - ai_wrapper - DEBUG - OpenAI API response received
 2025-01-09 16:15:30,223 - __main__ - INFO - Request successful: Success! Tokens: 685
 2025-01-09 16:15:30,223 - matplotlib.pyplot - DEBUG - Loaded backend tkagg version 8.6.
+2025-01-09 16:19:56,400 - httpcore.connection - DEBUG - close.started
+2025-01-09 16:19:56,400 - httpcore.connection - DEBUG - close.complete

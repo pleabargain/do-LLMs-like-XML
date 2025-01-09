@@ -1,5 +1,16 @@
 # AI Project Generator
 
+
+# video
+https://www.youtube.com/watch?v=XSS_KIHoQtE
+
+# repo
+https://github.com/pleabargain/do-LLMs-like-XML
+
+# why
+
+I kept reading that LLMs like XML so I tested it. I forked some code that worked. I made it better then I told Antrhopic to write a detailed XML describing the code. I then passed that XML to Anthropic to write the code. It did. It worked. In this case, Anthropic was able to create an entire piece of code using an XML description..
+
 An AI-powered application that helps generate project ideas and implementation guidance using either OpenAI's GPT models or local Ollama models.
 
 ## Features
